@@ -34,7 +34,7 @@
     </div>
     <br>
     <div class="container mb-4">
-        <a href="https://personal-wdp.000webhostapp.com/" class="btn btn-lg btn-primary mx-auto d-block">Mulai</a>
+        <a href="https://brook-yomi.000webhostapp.com/" class="btn btn-lg btn-primary mx-auto d-block">Mulai</a>
     </div>
     <div class="container-fluid bg-dark p-4">
         <img src="./img/MPLUSM_Logo.png" alt="Logo" class="img-fluid mx-auto d-block mt-3" width="100">
